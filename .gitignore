@@ -1,3 +1,5 @@
+# Ignore conversion of data
+to_html.py
 # Prerequisites
 *.d
 
